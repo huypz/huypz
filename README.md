@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello there 👋
+
+I'm Huy, a software engineer based in Texas.
+
+I do frontend web stuff—React, TypeScript, Tailwind—and a bit of Next for the backend.
+
+For fun, I also work with computer graphics and game development in Unreal Engine.
+
 
 <!--
 **huypz/huypz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
